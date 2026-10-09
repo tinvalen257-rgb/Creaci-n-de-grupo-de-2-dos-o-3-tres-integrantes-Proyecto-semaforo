@@ -20,6 +20,11 @@ HU2  Señal de avance: Como conductor, quiero ver la luz verde encendida para sa
 HU3  Señal de precaución: Como conductor, quiero ver la luz amarilla encendida para anticiparme a un cambio de señal
 HU4  Funcionamiento automático: Como usuario, quiero que el semáforo cambie las luces automáticamente para no tener que controlarlo manualmente
 HU5  Duración de las señales: Como usuario, quiero que cada luz permanezca encendida durante un tiempo establecido para que la secuencia sea ordenada y predecible
+
+
+
+
+
 flowchart TD
     A([Inicio]) --> B[Configurar pines]
     B --> C[Encender LED rojo]
