@@ -1,4 +1,4 @@
-# Creaci-n-de-grupo-de-2-dos-o-3-tres-integrantes-Proyecto-semaforo
+# Creacion-de-grupo-de-2-dos-o-3-tres-integrantes-Proyecto-semaforo
 https://wokwi.com/projects/477419813686273025
 REQUERIMIENTOS FUNCIONALES
 RF1  Encendido de luz roja: El sistema debe encender la luz roja para indicar que los vehículos deben detenerse
