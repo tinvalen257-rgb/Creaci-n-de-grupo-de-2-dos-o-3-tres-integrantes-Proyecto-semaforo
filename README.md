@@ -1,5 +1,6 @@
 # Creacion-de-grupo-de-2-dos-o-3-tres-integrantes-Proyecto-semaforo
-https://wokwi.com/projects/477419813686273025
+#TRABAJO EN WOKWI DEL SEMAFORO
+-https://wokwi.com/projects/477419813686273025
 # REQUERIMIENTOS FUNCIONALES   
 - RF1 Encendido de luz roja: El sistema debe encender la luz roja para indicar que los vehículos deben detenerse   
 - RF2 Encendido de luz verde: El sistema debe encender la luz verde para indicar que los vehículos pueden avanzar 
@@ -21,6 +22,9 @@ https://wokwi.com/projects/477419813686273025
 - HU3 Señal de precaución: Como conductor, quiero ver la luz amarilla encendida para anticiparme a un cambio de señal                   
 - HU4 Funcionamiento automático: Como usuario, quiero que el semáforo cambie las luces automáticamente para no tener que controlarlo manualmente     
 - HU5 Duración de las señales: Como usuario, quiero que cada luz permanezca encendida durante un tiempo establecido para que la secuencia sea ordenada y predecible
+#INTEGRANTES
+- Valentin Schoenfel
+- Martina Heredia
 
 
 
