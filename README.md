@@ -25,7 +25,7 @@
 - HU4 Funcionamiento automático: Como usuario, quiero que el semáforo cambie las luces automáticamente para no tener que controlarlo manualmente     
 - HU5 Duración de las señales: Como usuario, quiero que cada luz permanezca encendida durante un tiempo establecido para que la secuencia sea ordenada y predecible
 
-#INTEGRANTES
+#INTEGRANTES##
 - Valentin Schoenfel
 - Martina Heredia
 
