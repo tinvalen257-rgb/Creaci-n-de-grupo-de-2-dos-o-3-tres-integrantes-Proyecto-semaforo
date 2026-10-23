@@ -1,6 +1,6 @@
 # Creacion-de-grupo-de-2-dos-o-3-tres-integrantes-Proyecto-semaforo
 
-#TRABAJO EN WOKWI DEL SEMAFORO
+# TRABAJO EN WOKWI DEL SEMAFORO
 -https://wokwi.com/projects/477419813686273025
 
 # REQUERIMIENTOS FUNCIONALES   
@@ -25,7 +25,7 @@
 - HU4 Funcionamiento automático: Como usuario, quiero que el semáforo cambie las luces automáticamente para no tener que controlarlo manualmente     
 - HU5 Duración de las señales: Como usuario, quiero que cada luz permanezca encendida durante un tiempo establecido para que la secuencia sea ordenada y predecible
 
-#INTEGRANTES##
+# INTEGRANTES
 - Valentin Schoenfel
 - Martina Heredia
 
